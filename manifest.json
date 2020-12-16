@@ -1,0 +1,22 @@
+{
+    "name": "Sepakbolaku",
+    "gcm_sender_id": "59778261654",
+    "short_name": "Sepakbolaku",
+    "description": "Aplikasi informasi sepakbola",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ef5350",
+    "theme_color": "#ef5350",
+    "icons": [
+        {
+            "src": "icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icon192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ]
+}
